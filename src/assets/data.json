@@ -1,0 +1,62 @@
+{
+    "Success": "Success",
+    "Errors": null,
+    "RateContextList": [
+        {
+            "RateCardName": "Import ZD109526",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Material",
+            "RateKindName": "Standard",
+            "RateOptionName": "Standard"
+        },
+        {
+            "RateCardName": "Import ZD109526",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Part",
+            "RateKindName": "Standard",
+            "RateOptionName": "Standard"
+        },
+        {
+            "RateCardName": "Import ZD109526",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Labor",
+            "RateKindName": "Manual Entry",
+            "RateOptionName": "Standard"
+        },
+        {
+            "RateCardName": "Import ZD109526",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Labor",
+            "RateKindName": "Manual Entry",
+            "RateOptionName": "Overtime"
+        },
+        {
+            "RateCardName": "Import ZD109526",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Trip Charge",
+            "RateKindName": "Manual Entry",
+            "RateOptionName": "Standard"
+        },
+        {
+            "RateCardName": "0",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Freight",
+            "RateKindName": "Standard",
+            "RateOptionName": "Standard"
+        },
+        {
+            "RateCardName": "0",
+            "Rate": 0.0000,
+            "RateIsLocked": false,
+            "RateTypeName": "Tax",
+            "RateKindName": "Standard",
+            "RateOptionName": "Standard"
+        }
+    ]
+}
